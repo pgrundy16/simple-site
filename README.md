@@ -1,3 +1,3 @@
 # Simple Website
 
-This is a website that is a wiki for [playboi carti](http://www.cashcarti.com/).
+This is a website for [Payton Grundy](https://soundcloud.com/payton-grundy)'s music.
